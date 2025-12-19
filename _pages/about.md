@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a third year Ph.D. candidate at School of Computer Science, Peking University. My supervisor is Prof. [Boxin Shi](http://camera.pku.edu.cn/). I received my B.Sc. degree from school of electronic engineering and computer science in Peking University. My research interest lies in computer vision and computational photography. 
+I am currently a third year Ph.D. candidate at School of Computer Science, Peking University. My supervisor is Prof. [Boxin Shi](http://camera.pku.edu.cn/). I received my B.Sc. degree from School of Electronic Engineering and Computer Science in Peking University. My research interest lies in computer vision and computational photography. 
+
+My Email is liboyu \[AT\] pku \[DOT\] edu \[DOT\] cn.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
