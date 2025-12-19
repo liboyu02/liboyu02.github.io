@@ -1,3 +1,8 @@
 nbconvert
 pyyaml
 scholarly
+bibtexparser
+requests
+beautifulsoup4
+tqdm
+Unidecode
