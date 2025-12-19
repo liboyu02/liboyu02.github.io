@@ -790,9 +790,8 @@ footer.sticky-bottom {
           }
         }
 
-        > em {
-          border-bottom: 1px solid;
-          font-style: normal;
+        > strong {
+          font-weight: 700;
         }
 
         > span.more-authors {
@@ -804,6 +803,12 @@ footer.sticky-bottom {
             color: var(--global-text-color);
             border-bottom: 1px dashed var(--global-text-color);
           }
+        }
+
+        sup {
+          font-weight: 700;
+          font-size: 0.85em;
+          color: var(--global-theme-color);
         }
       }
 
