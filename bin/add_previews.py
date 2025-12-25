@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-ASSETS_DIR = Path("assets/img/pub_preview")
+ASSETS_DIR = Path("assets/img/publication_preview")
 BIB_PATH = Path("_bibliography/papers.bib")
 
 
@@ -123,7 +123,7 @@ def main():
         dest = ASSETS_DIR / f"{key}{ext}"
         ok = download_image(thumb_url, dest)
         if ok:
-            preview_rel = f"pub_preview/{dest.name}"
+            preview_rel = dest.name
             entry["preview"] = preview_rel
             print(f"[ok] {key}: saved to {dest}, added preview={preview_rel}")
         else:

@@ -36,7 +36,7 @@ export SERPAPI_API_KEY="your-key-here"
 完整的 Google Scholar 抓取工具，支持：
 - 按用户 ID 抓取所有出版物
 - 自动生成 BibTeX 并写入 `_bibliography/papers.bib`
-- 可选下载缩略图到 `assets/img/pub_preview/`
+- 可选下载缩略图到 `assets/img/publication_preview/`
 - 自动备份原始 bib 文件
 
 **参数：**
@@ -50,7 +50,7 @@ export SERPAPI_API_KEY="your-key-here"
 为现有 `papers.bib` 中的论文下载缩略图：
 - 扫描 bib 条目的 `url` 或 `doi` 字段
 - 尝试从页面抓取 og:image 元数据
-- 下载图片到 `assets/img/pub_preview/`
+- 下载图片到 `assets/img/publication_preview/`
 - 自动添加 `preview` 字段到 bib 条目
 
 **使用：**
@@ -67,15 +67,15 @@ export SERPAPI_API_KEY="your-key-here"
 4. ✅ EvDiG (CVPR 2024) - 占位图
 5. ✅ Coherent Event Enhancement (ICCV 2023) - 占位图
 
-所有缩略图位于：`assets/img/pub_preview/`
+所有缩略图位于：`assets/img/publication_preview/`
 
 ## 自定义缩略图
 
 如需替换占位图为真实论文图片：
 1. 准备图片（推荐 400x300 或类似比例）
 2. 命名为 `<bibkey>.jpg` 或 `.png`
-3. 放入 `assets/img/pub_preview/`
-4. 确保 `papers.bib` 中对应条目有 `preview = {pub_preview/<bibkey>.jpg}`
+3. 放入 `assets/img/publication_preview/`
+4. 确保 `papers.bib` 中对应条目有 `preview = {publication_preview/<bibkey>.jpg}`
 
 ## 依赖
 

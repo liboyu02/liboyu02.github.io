@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from scholarly import scholarly, ProxyGenerator
 
 
-ASSETS_DIR = Path("assets/img/pub_preview")
+ASSETS_DIR = Path("assets/img/publication_preview")
 BIB_PATH = Path("_bibliography/papers.bib")
 
 
@@ -171,7 +171,7 @@ def main():
                 dest = ASSETS_DIR / f"{key}{ext}"
                 ok = download_image(thumb_url, dest)
                 if ok:
-                    preview_rel = f"{ASSETS_DIR.as_posix()}/{dest.name}"
+                    preview_rel = dest.name
                     preview_map[key] = preview_rel
 
         bib_entries.append((year or "0000", bibtex, key))
