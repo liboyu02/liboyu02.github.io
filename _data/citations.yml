@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2025-12-26'
 papers:
   mo4TKqkAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -8,6 +8,10 @@ papers:
   mo4TKqkAAAAJ:9yKSN-GCB0IC:
     citations: 13
     title: 'EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset'
+    year: '2025'
+  mo4TKqkAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Reconstruction as a Bridge for Event-Based Visual Question Answering
     year: '2025'
   mo4TKqkAAAAJ:d1gkVwhDpl0C:
     citations: 51
