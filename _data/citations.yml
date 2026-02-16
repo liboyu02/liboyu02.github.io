@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-16'
 papers:
   mo4TKqkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting
     year: Unknown Year
   mo4TKqkAAAAJ:9yKSN-GCB0IC:
-    citations: 13
+    citations: 14
     title: 'EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset'
     year: '2025'
   mo4TKqkAAAAJ:UeHWp8X0CEIC:
@@ -23,5 +23,5 @@ papers:
     year: '2025'
   mo4TKqkAAAAJ:u-x6o8ySG0sC:
     citations: 5
-    title: 'EvDiG: Event-guided Direct and Global Components Separation'
+    title: 'EvDiG: Event-guided direct and global components separation'
     year: '2024'
