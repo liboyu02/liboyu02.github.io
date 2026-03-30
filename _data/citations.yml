@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-30'
 papers:
   mo4TKqkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting
     year: Unknown Year
   mo4TKqkAAAAJ:9yKSN-GCB0IC:
-    citations: 17
+    citations: 18
     title: 'EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset'
     year: '2025'
+  mo4TKqkAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Coded Event Focal Stack for Continuous Refocusing in Dynamic Scene
+    year: '2026'
   mo4TKqkAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Reconstruction as a Bridge for Event-Based Visual Question Answering
     year: '2025'
   mo4TKqkAAAAJ:d1gkVwhDpl0C:
-    citations: 58
+    citations: 59
     title: Coherent event guided low-light video enhancement
     year: '2023'
   mo4TKqkAAAAJ:qjMakFHDy7sC:
