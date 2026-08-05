@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   mo4TKqkAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting
     year: '2026'
   mo4TKqkAAAAJ:9yKSN-GCB0IC:
-    citations: 27
-    title: 'EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset'
+    citations: 29
+    title: 'Eventaid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset'
     year: '2025'
   mo4TKqkAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -18,14 +18,14 @@ papers:
     title: Reconstruction as a Bridge for Event-Based Visual Question Answering
     year: '2025'
   mo4TKqkAAAAJ:d1gkVwhDpl0C:
-    citations: 71
+    citations: 72
     title: Coherent event guided low-light video enhancement
     year: '2023'
   mo4TKqkAAAAJ:qjMakFHDy7sC:
     citations: 0
-    title: Monochromatic Event Guided Image Deblurring with Event-triggering-aware Decomposition
+    title: Monochromatic Event Guided Image Deblurring with Event-Triggering-Aware Decomposition
     year: '2025'
   mo4TKqkAAAAJ:u-x6o8ySG0sC:
-    citations: 7
-    title: 'EvDiG: Event-guided direct and global components separation'
+    citations: 6
+    title: 'Evdig: Event-guided direct and global components separation'
     year: '2024'
